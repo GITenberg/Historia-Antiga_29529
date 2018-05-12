@@ -1,0 +1,43 @@
+_repo: Historia-Antiga_29529
+_version: 0.1.0
+alternative_title: História Antiga
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Unknown
+    gutenberg_agent_id: '49'
+    url: http://www.gutenberg.org/2009/agents/49
+    wikipedia: http://www.gutenberg.org/browse/authors/a#a216
+description: ''
+gutenberg_bookshelf: PT História
+gutenberg_issued: '2009-07-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29529'
+language: pt
+language_note:
+- This ebook uses 19th century spelling
+- "Este livro eletrónico usa a ortografia da edição em papel do século XIX.\r\nPara\
+  \ ajudar o Project Gutenberg a atualizar a ortografia desta obra, visite a página\
+  \ http://www.gutenberg.org/wiki/PT_Ortografia"
+production_note: Produced by M. Silva
+publication_note: "Lisboa:\r\nSecção Editorial da Companhia Nacional Editora \r\n\
+  Adm. Justino Guedes\r\nLargo do Conde Barão, 50\r\nAgencias: PORTO - Largo dos Loyos,\
+  \ 47,1.º\r\nRIO DE JANEIRO - R. da Quitanda, 38\r\n1900"
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: "Propaganda de Instrução para Portuguezes e Brazileiros\r\nBibliotheca\
+  \ do Povo e das Escolas\r\nTerceiro anno - Oitava Serie\r\nNumero 58"
+subjects:
+- !lcsh 'History, Ancient'
+- !lcc 'D'
+tableOfContents: Introducção; Capitulo I - Os hebreus; Capitulo II - Os egypcios;
+  Capitulo III - Os assyrios e babylonios; Capitulo IV - Os phenicios; Capitulo V
+  - Os carthaginezes; Capitulo VI - Os syrios; Capitulo VII – Os persas; Capitulo
+  VIII -Os indios; Capitulo IX - Os chins; Capitulo X - Os gregos; Capitulo XI - Os
+  romanos
+title: Historia Antiga
+url: http://www.gutenberg.org/ebooks/29529
